@@ -6,7 +6,7 @@ Software engineer focusing on building scalable web systems and smart device int
 ---
 
 ### 🛠️ Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,laravel,php&theme=light)](https://skillicons.dev)
 
 ### 🧰 Tools & Hardware
 <p align="left">
