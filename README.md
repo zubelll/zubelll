@@ -9,7 +9,7 @@ Software engineer focusing on building scalable web systems and smart device int
 [![My Skills](https://skillicons.dev/icons?i=html,js,laravel,php&theme=light)](https://skillicons.dev)
 
 ### 🧰 Tools & Hardware
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,discord,vscode)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
 <p align="left">
